@@ -15,7 +15,7 @@ The project emphasizes practical application of **biomedical sensors**, **instru
 - **MAX30102 Pulse Oximeter Sensor**  
   Generates red and infrared PPG signals from blood flow.
 
-- **Microcontroller (Arduino / ESP32)**  
+- **Microcontroller (Arduino Uno)**  
   Performs sensor interfacing, signal processing, and physiological parameter calculation.
 
 - **OLED / LCD Display**  
@@ -37,8 +37,8 @@ The project emphasizes practical application of **biomedical sensors**, **instru
 ## Technologies Used
 
 - **Sensor:** MAX30102  
-- **Microcontroller:** Arduino Uno / ESP32  
-- **Display:** OLED SSD1306 / LCD  
+- **Microcontroller:** Arduino Uno
+- **Display:** OLED SSD1306  
 - **Communication:** I²C  
 - **Programming Language:** C/C++ (Arduino)  
 - **Concepts:** PPG, Biomedical Instrumentation, Signal Filtering, Embedded Systems  
