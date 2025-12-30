@@ -1,8 +1,5 @@
 # HR & SpO₂ Monitoring System Using MAX30102
 
-**Final Project – Biomedical Sensor and Instrumentation Course**  
-A heart rate and oxygen saturation (SpO₂) monitoring system utilizing **PPG (Photoplethysmography)** signals acquired from the **MAX30102 sensor** for real-time physiological measurement.
-
 ---
 
 ## Project Summary
